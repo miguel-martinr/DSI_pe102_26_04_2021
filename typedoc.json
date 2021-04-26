@@ -1,0 +1,10 @@
+{
+  "name": "Ejercicios PE102 - Patrón Factory method, Módulos ES6, Github Actions",
+  "entryPoints": [
+    "./src"
+  ],
+  "out": "./docs",
+  "theme": "default",
+  "highlightTheme": "github-light",
+  "media": "./media"
+}
